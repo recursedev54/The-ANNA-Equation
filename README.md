@@ -3,7 +3,7 @@
 
 ## What the heck is this?
 
-So, I was messing around with color spaces and stumbled onto something. This script visualizes what I'm calling the "Anna Equation" - it's a way to transform colors that ended up creating an 8D color space on a 2D plane.
+So, I was messing around with color spaces and stumbled onto something. This script visualizes what I'm calling the "Anna Equation", it's a way to transform colors that ended up creating an 8D color space on a 2D plane.
 ## Features
 
 - Input RGB color in hex format
