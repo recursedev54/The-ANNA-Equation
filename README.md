@@ -1,4 +1,4 @@
-```markdown
+
 # Anna Equation Visualizer
 
 ## What the heck is this?
